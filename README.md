@@ -1,2 +1,5 @@
 # Arvore_da_Vida
- 1°teste
+ Bem vindo a Arvore da vida.
+
+ Esse projeto tem como intuito de transmitir conhecimento de forma simples e sucinta para brasileiros.
+ 
